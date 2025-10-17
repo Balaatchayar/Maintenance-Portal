@@ -1,6 +1,6 @@
 # Maintenance Portal (PM)
 
-A portal for maintenance engineers to track and manage equipment notifications, work orders, and maintenance history, ensuring machines in the plant run smoothly.
+Developed using Flutter, this mobile-friendly portal connects maintenance engineers to SAP systems for viewing notifications, work orders, and maintenance activities in real-time.
 
 ## UI Frontend
 
